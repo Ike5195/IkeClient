@@ -1,14 +1,14 @@
 [
 {
   "modid": "harakirimod",
-  "name": "Harakiri",
-  "description": "Harakiri is a hacked client built on forge.",
+  "name": "Ikes",
+  "description": "Ike's Client yessir",
   "version": "1.7",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Vaxry", "Zim"],
-  "credits": "Vaxry for the base client, Zim for help with 1.16 and the event handler.",
+  "authorList": ["Ike"],
+  "credits": "Ike5195 for everything",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
